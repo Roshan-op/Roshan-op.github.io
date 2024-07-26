@@ -458,7 +458,7 @@ header .navbar ul li a:hover {
 /* about media queries ends*/
 /* about section ends */
 
-/* skills section starts */
+/* skills section starts 
 .skills {
   min-height: 90vh;
   background: linear-gradient(to bottom, #57059e, #4a00e0);
